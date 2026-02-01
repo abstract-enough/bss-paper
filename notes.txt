@@ -1,0 +1,3 @@
+the further away the transmitters relative to the inter receiver distance, 
+the harder the problem,
+because the less the difference in the power loss at different receivers
