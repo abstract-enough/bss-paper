@@ -1,0 +1,14 @@
+title
+Modulation Agnostic Blind Source Separation for Inverse Square Loss Signals
+
+advantages
+no prior autocorrelation knowledge needed
+can separate large number of signals if the receiver array has many elements
+M×T>(N×T+N×3) the greater the inequality the better
+
+challenges
+need a large size receiver array
+distance signals increases difficulty
+
+noise and long distance may be more challenging than sensor quantization errors
+(can I quantify that)
