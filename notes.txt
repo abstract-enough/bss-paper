@@ -1,3 +1,9 @@
 the further away the transmitters relative to the inter receiver distance, 
 the harder the problem,
 because the less the difference in the power loss at different receivers
+
+however, we can use a large number of receivers to make the problem highly overdetermined (similar to having large amount of training data for a neural network)
+
+there can be another problem of channel noise or sensor imprecision (quantization noise)
+
+more data (more overdetermined) should help
