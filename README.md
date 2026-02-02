@@ -9,3 +9,5 @@ normalize receiver positions
 
 normalize received power
 (make it small so transmitted power has levels between 0 and 1)
+
+(both normalizations are for optimization tool to search from 0 to 1)
