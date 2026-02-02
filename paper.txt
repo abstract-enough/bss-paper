@@ -6,6 +6,8 @@ no prior autocorrelation knowledge needed
 can separate large number of signals if the receiver array has many elements
 M×T>(N×T+N×3) the greater the inequality the better
 
+naive matrix factorization doesn't give unique solution since if receiver locations are not used M×T vs N×T+M×N is more difficult (why does it not work if R is large and M>N?)
+
 challenges
 need a large size receiver array
 distance signals increases difficulty
