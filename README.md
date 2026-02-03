@@ -8,6 +8,6 @@ normalize receiver positions
 (make them small so solution has transmitter locations between 0 and 1)
 
 normalize received power
-(make it small so transmitted power has levels between 0 and 1)
+(already done, since target transmit power is 1)
 
 (both normalizations are for optimization tool to search from 0 to 1)
