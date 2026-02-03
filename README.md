@@ -1,7 +1,8 @@
 literature review
 ica and other source separation methods (my method has no prior)
-
 matrix factorization (see thesis)
+
+because multipath noise may vary slowly over time, this noise will not be handled by large number of time samples and presents the hardest problem for our method
 
 experiment design
 
