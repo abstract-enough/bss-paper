@@ -8,7 +8,7 @@ experiment design
 vary distance of transmitters relaive to size of receiver array
 
 vary SNR
-(in real world SNR is larger for more distante sources, since the ambient noise at the receiver is constant)
+(since the ambient noise at the receiver is constant relative to different incoming signals, that means when we report SNR of 20dB, if this is measured for the mosg distance source, the closer signals will have better SNF, meaning in practice we can expect better result than our simplified model of constant SNR)
 
 normalize receiver positions
 (make them small so solution has transmitter locations between 0 and 1)
