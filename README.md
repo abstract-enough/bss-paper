@@ -1,5 +1,8 @@
 Blind Source Separation of Inverse Square Law Signals with no Prior
 
+if wave is slow, the signals can arrive at different times, the receivers just need to be close relative to the wave speed so they can measure the different losses at the same time
+(so it can also work for audio)
+
 literature review
 ica and other source separation methods (my method has no prior)
 matrix factorization (see thesis)
