@@ -1,4 +1,9 @@
-simple
+literature review
+ica and other source separation methods (my method has no prior)
+
+matrix factorization (see thesis)
+
+experiment design
 
 vary distance of transmitters relaive to size of receiver array
 
