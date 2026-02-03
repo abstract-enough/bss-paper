@@ -1,3 +1,5 @@
+Blind Source Separation of Inverse Square Law Signals with no Prior
+
 literature review
 ica and other source separation methods (my method has no prior)
 matrix factorization (see thesis)
