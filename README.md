@@ -1,5 +1,8 @@
 Blind Source Separation of Inverse Square Law Signals with no Prior
 
+abstract
+This work develops a blind source separation algorithm for unmixing signals from sources at different locations arriving at a sensor array. The approach is based on the geometry of the propagtion of signals that decay with inverse square of the distance from each transmitter. This approaches takes a previously underdetermined problem and finds an overdetermined approach which obtain accurate signal separation and transmitter location estimation, which can be seen as a new take on the classic matrix factorization problem in communications. This approach will work for waves where the speed of propagation is large relative to the sensor array dimension. This means for smaller arrays, this approach will apply to multisource audio separation, and will apply generally for electronagnetic signal separation. For very distant EM signals, we perform an analysis of the operating limits of the method for different receiver arrays. 
+
 if wave is slow, the signals can arrive at different times, the receivers just need to be close relative to the wave speed so they can measure the different losses at the same time
 (so it can also work for audio)
 
