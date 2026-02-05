@@ -1,3 +1,6 @@
+adding noise to the receiver end means, if I need better result for tougher distance or SNR, try larger number of receivers, as this is like more samples in a neural network problem
+
+
 Blind Source Separation of Inverse Square Law Signals with no Prior
 
 abstract
