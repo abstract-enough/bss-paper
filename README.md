@@ -8,6 +8,8 @@ This work develops a blind source separation algorithm for unmixing signals from
 
 larger number of receivers, as this is like more samples in a neural network problem
 
+SNR at receiver makes sense, since more distant transmitters would use a larger power we don't measure SNR at transmitter
+
 modulation based approaches
 Blind Signal Separation Techniques on Different 
 types of MIMO Systems – An Overview
