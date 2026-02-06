@@ -7,6 +7,8 @@ This work develops a blind source separation algorithm for unmixing signals from
 
 this is also known as the cocktail party problem
 
+add literature review about methods using microphone locations
+
 larger number of receivers, as this is like more samples in a neural network problem
 
 SNR at receiver makes sense, since more distant transmitters would use a larger power we don't measure SNR at transmitter
