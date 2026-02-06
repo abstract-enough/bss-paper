@@ -1,5 +1,3 @@
-adding noise to the receiver end means, if I need better result for tougher distance or SNR, try larger number of receivers, as this is like more samples in a neural network problem
-
 add abstract sentence about no modulation requirment, no prior stat on signal
 
 Blind Source Separation of Inverse Square Law Signals with no Prior
@@ -7,6 +5,8 @@ Blind Source Separation of Inverse Square Law Signals with no Prior
 abstract
 This work develops a blind source separation algorithm for unmixing signals from sources at different locations arriving at a sensor array. The approach is based on the geometry of the propagtion of signals that decay with inverse square of the distance from each transmitter. This approaches takes a previously underdetermined problem and finds an overdetermined approach which obtain accurate signal separation and transmitter location estimation, which can be seen as a new take on the classic matrix factorization problem in communications. This approach will work for waves where the speed of propagation is large relative to the sensor array dimension. This means for smaller arrays, this approach will apply to multisource audio separation, and will apply generally for electromagnetic signal separation. For very distant EM signals, we perform an analysis of the operating limits of the method for different receiver arrays. 
 
+
+larger number of receivers, as this is like more samples in a neural network problem
 
 modulation based approaches
 Blind Signal Separation Techniques on Different 
