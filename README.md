@@ -1,4 +1,5 @@
-add abstract sentence about no modulation requirment, no prior stat on signal
+gradient descent should give better convergence (more info about the loss landscape)
+use tensor flow to autodiff
 
 Blind Source Separation of Inverse Square Law Signals with no Prior
 
