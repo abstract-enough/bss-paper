@@ -8,6 +8,8 @@ This work develops a blind source separation algorithm for unmixing signals rece
 
 this is also known as the cocktail party problem
 
+no positive requirment, mixing amplitudes is more accurate than mixing powers
+
 add literature review about methods using microphone locations
 
 larger number of receivers, as this is like more samples in a neural network problem
