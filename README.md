@@ -1,3 +1,5 @@
+rename code word as word from modulatiom constellation
+
 gradient descent should give better convergence (more info about the loss landscape)
 use tensor flow to autodiff
 
