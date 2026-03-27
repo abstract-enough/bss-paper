@@ -12,6 +12,8 @@ This work develops a blind source separation algorithm for unmixing signals rece
 
 this is also known as the cocktail party problem
 
+make a note in the paper that the performance is highly dependent on the source locations which is random
+
 no positive requirment, mixing amplitudes is more accurate than mixing powers
 
 add literature review about methods using microphone locations
