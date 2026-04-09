@@ -1,6 +1,7 @@
 rename code word as word from modulatiom constellation (new oppenheim reference)
 
 cite nasa angle of arrival work
+(Zuckerwar)
 
 gradient descent should give better convergence (more info about the loss landscape)
 use tensor flow to autodiff
